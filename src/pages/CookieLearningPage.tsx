@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import { useState } from 'react';
 import { ChevronDown, Star, Clock, BookOpen } from 'lucide-react';
 
 export default function CookieLearningPage() {
