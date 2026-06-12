@@ -1,7 +1,5 @@
+import CookieLearningPage from './pages/CookieLearningPage';
+
 export default function App() {
-  return (
-    <div>
-      <h1 className="text-red-400"> Tailwind Demo</h1>
-    </div>
-  );
+  return <CookieLearningPage />;
 }
